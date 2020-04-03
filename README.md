@@ -1,4 +1,5 @@
 # CuseHacks-2020
+#### [View our devpost here](https://devpost.com/software/infobytes)
 
 ## Inspiration
 We know that people have trouble sticking to their dietary needs, so we wanted to make life easier for the everyday consumer. Putting power back into the hands of the customer.
